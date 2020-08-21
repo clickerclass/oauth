@@ -1,0 +1,8 @@
+com\clickerclass\oauth\models\RolModel.class
+com\clickerclass\oauth\servicios\AuthenticationService.class
+com\clickerclass\oauth\models\AuthenticationModel.class
+com\clickerclass\oauth\repository\UserRepository.class
+com\clickerclass\oauth\models\UserModel.class
+com\clickerclass\oauth\Application.class
+com\clickerclass\oauth\models\DocumentTypeModel.class
+com\clickerclass\oauth\models\AddressModel.class

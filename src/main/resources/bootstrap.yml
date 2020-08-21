@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: toures-balon-oauth
+  profiles: prod
+  cloud:
+    config:
+      uri: http://10.152.183.244:8888
